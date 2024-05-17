@@ -11,7 +11,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student can: say their name (getName)
  * 
  * @author dancye May 7, 2018
- * @ modified by Gagan
+ * @ modified by Gagan\
+ * @ Gagan
  */
 public class Student 
 {
