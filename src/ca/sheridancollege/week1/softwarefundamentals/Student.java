@@ -14,6 +14,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @ modified by Gagan\
  * @ Gagan
  * @ Singh is my surname 
+ * @ change by the github
  */
 public class Student 
 {
